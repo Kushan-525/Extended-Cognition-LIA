@@ -63,4 +63,10 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 ```text
 Extended-Cognition-LIA/
 │
-├── .
+├── .streamlit/          # Configuración de temas (Pink Mode)
+│   └── config.toml
+├── pages/               # Módulos de la aplicación
+│   ├── 1_🧠_Vision_CNN.py
+│   └── 2_🍅_Reloj_Pomodoro.py
+├── Inicio.py            # Hub principal (Main Entry Point)
+└── README.md            # Documentación
