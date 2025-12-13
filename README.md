@@ -42,7 +42,7 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/TU_USUARIO/Extended-Cognition-LIA.git](https://github.com/TU_USUARIO/Extended-Cognition-LIA.git)
+    git clone [https://github.com/Kushan-525/Extended-Cognition-LIA.git](https://github.com/Kushan-525/Extended-Cognition-LIA.git)
     cd Extended-Cognition-LIA
     ```
 
